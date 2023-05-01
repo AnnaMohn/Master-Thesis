@@ -1,4 +1,4 @@
-# Master-Thesis
+# Master's Thesis
 Titel: How negative emission technologies can be regulated and certified. A systematic mapping of the scientific literature on  policy instruments for carbon dioxide removal
 
 This repository shows the code I developed for my master thesis. The files are sorted according to their occurence in the thesis. Hence, the data is first cleaned. This is done in two different files, the first creates new datasets with basic information such as the year of publication (File A1) and the second creates files with information on policy instruments and CDR technologies (File A2). Based on this, the graphs for the systematic mapping are then created in Files B-E. File F creates a subset that was used for the qualitative analysis and in File G the graph is created that displays the knowledge about the certification criteria.
